@@ -2,6 +2,7 @@ Haddock.js
 ==========
 
 Generador aleatorio de improperios del Capitán Haddock (por ahora en castellano).
+
 Captain Haddock insult generator (in spanish for now).
 
 Improperios sacados de [sepionet.es](http://www.sepionet.es/tintinofilia/insultos.php).
