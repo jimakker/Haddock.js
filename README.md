@@ -9,5 +9,5 @@ Improperios sacados de [sepionet.es](http://www.sepionet.es/tintinofilia/insulto
 
 View /example/test.html for more info
 
-###Feel free to suggest your own insults!
+###Feel free to suggest your own insults (via github issues)!
 ##New languages are very welcome!
